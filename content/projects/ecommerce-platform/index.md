@@ -39,7 +39,7 @@ A modern, scalable e-commerce platform built from scratch with performance and u
 
 ## Overview
 
-Built a complete e-commerce solution for a mid-sized retail company looking to expand online. The platform handles everything from product catalog management to payment processing and order fulfillment.
+Built a complete e-commerce solution for a mid-sized retail company looking to expand online.
 
 ## Key Features
 
