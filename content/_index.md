@@ -11,17 +11,16 @@ sections:
     id: hero
     content:
       username: me
-      greeting: "Hi, I'm"
+      greeting: "Moinsen"
       show_status: true
       show_scroll_indicator: true
       typewriter:
         enable: true
-        prefix: "I build"
+        prefix: "Ich bin"
         strings:
-          - "full-stack web apps"
-          - "scalable APIs"
-          - "beautiful UIs"
-          - "open source tools"
+          - "Sängerin"
+          - "musikalisch"
+          - "günstig"
         type_speed: 70
         delete_speed: 40
         pause_time: 2500
